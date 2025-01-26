@@ -9,8 +9,7 @@
 - Worked with almost every popular gaming platform including: PC (MacOS and Linux), PS4/PS5, XB1 and XBS/XBX, Switch, mobiles (iOS and Android), Steam Deck
 - Conducted various manual tests such as regression, smoke testing, stress tests, performance, destro, client's requests etc.
 - Gained experience on many different projects: big, medium and small ones (AAA, AA and A)
-- Shipped games like Alan Wake II (testing, managing a team of testers as POC and helping them if needed, creating and updating project documentation, maintaining project's bug     
-  database in Jira, overseeing testplans and team tasks, pre-vetting bugs) and Fall Guys (managing a team of testers as POC and helping them if needed, installing builds and updating 
+- Shipped games like Alan Wake II (testing, managing a team of testers as POC and helping them if needed, creating and updating project documentation, maintaining project's bug database in Jira, overseeing testplans and team tasks, pre-vetting bugs) and Fall Guys (managing a team of testers as POC and helping them if needed, installing builds and updating 
   software on Switch, maintaining bug database in Azure DevOps and Jira, overseeing testcases in Testrail, creating project documentation)
 
 ⚙ **Tech Stack:**
@@ -32,8 +31,6 @@
 🌱 **Self-development:**
 
 - I’m currently learning some Unreal Engine to better understand game design process from within, planning to gain ISTQB testing certificate and learning automation tools - Postman, Swagger and some SQL
-
-🤔 **I’m looking for help 
  
 📞 **How to reach me:** 
 
