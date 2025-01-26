@@ -30,7 +30,7 @@
 
 🌱 **Self-development:**
 
-- I’m currently learning some Unreal Engine to better understand game design process from within, planning to gain ISTQB testing certificate and learning automation tools - Postman, Swagger and some SQL
+- I’m currently learning some Unreal Engine to better understand game design process from within, planning to gain ISTQB testing certificate in 2025 and learning automation tools - Postman, Swagger, JQuery and some SQL
  
 📞 **How to reach me:** 
 
