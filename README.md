@@ -43,7 +43,9 @@
 
 - Stable company to work for which would let me grow as a tester
 - Good professional connections
-- Opportunities to learn automation in nice work environment 
+- Opportunities to learn automation in nice work environment
+
+🎸 **
  
 📞 **How to reach me:** 
 
