@@ -3,7 +3,7 @@
 🎮 **Quick Bio:**
 
 - I'm a QA manual tester with aspirations to be the software or automation one in the future. I have over 3 years of professional experience now working on many various projects with 
-  different clients from the gamedev industry. It gave me not only a lot of experience in managing different client needs and fulfilling their expectations regarding games, but also made 
+  different clients from gamedev industry. It gave me not only a lot of experience in managing different client needs and fulfilling their expectations regarding games, but also made 
   me a more confident person ready for any personal challenges 😄 I can say I'm a team player, both in life and work, whether it's learning a new software in work or helping wife in 
   solving difficult problem, and I'm always trying to cooperate well with other people, learn from them, because I firmly believe they're the core of every project ^^ I don't often 
   hesitate to ask if I'm not certain of something. If you want to do it right, then you have to be sure of it and better to ask the way than to go astray, eh? 😁 
@@ -19,7 +19,7 @@
 
 ⚙ **Tech Stack:**
 
-- Jira (mostly), Mantis (~ 1 year), Azure DevOps (~ 8 months)
+- Jira (mostly), Mantis (over 2 years), Azure DevOps (~ 8 months)
 - Confluence (using project technical documentation mostly provided by clients) 
 - Testrail (managing testcases)
 - TestFlight (for iOS testing, installing builds)
@@ -35,9 +35,8 @@
 
 🌱 **Self-development:**
 
-- Currently learning some Unreal Engine to better understand game design process from within, planning to gain ISTQB testing certificate in 2025 and learning manual/automation 
-  testing tools - Postman, Swagger, JQuery, some SQL etc.
-- Will add some projects in Unreal Engine, C# or JavaScript in time here
+- Currently learning some Unreal Engine to better understand game design process from within and other tools like Postman, Swagger, JQuery, also a bit of SQL and Python
+- Will add some projects in time here
 
 🔍 **What am I looking for?**
 
