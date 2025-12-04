@@ -10,7 +10,7 @@
 
 📑 **Professional Experience:** 
 
-- Worked with almost every popular gaming platform including: PC (Windows and Linux), PS4/PS5, XB1 and XBS/XBX, Switch, mobiles (iOS and Android), Steam Deck
+- Worked with almost every popular gaming platform including: PC (Windows, Mac and Linux), PS4/PS5, XB1 and XBS/XBX, Switch, Steam Deck, mobiles (iOS and Android), Steam/Epic/Xbox
 - Conducted various manual tests such as regression, smoke testing, stress tests, performance, destro, client's requests etc.
 - Gained experience on many different projects: big, medium and small ones (AAA, AA and A)
 - Helped with shipping games like Alan Wake II (testing, managing a team of testers as POC and helping them if needed, creating and updating project documentation, maintaining project's 
