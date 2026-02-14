@@ -42,7 +42,7 @@
 
 - Stable company to work for which would let me grow in a Quality Assurance and software testing areas
 - Professional connections
-- Opportunities to learn automation and game design or testing design processess 
+- Opportunities to learn automation and game design or testing software design processess 
  
 📞 **How to reach me:** 
 
