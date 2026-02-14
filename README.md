@@ -2,7 +2,7 @@
 
 🎮 **Quick Bio:**
 
-- I'm a QA manual tester with aspirations to be the software or automation one in the future. I have over 3 years of professional experience now working on many various projects with 
+- I'm a QA manual tester with aspirations to be the software or automation one in the future. I have over 4,5 years of professional experience now working on many various projects with 
   different clients from gamedev industry. It gave me not only a lot of experience in managing different client needs and fulfilling their expectations regarding games, but also made 
   me a more confident person ready for any personal challenges 😄 I can say I'm a team player, both in life and work, whether it's learning a new software in work or helping wife in 
   solving difficult problem, and I'm always trying to cooperate well with other people, learn from them, because I firmly believe they're the core of every project ^^ I don't often 
@@ -11,19 +11,19 @@
 📑 **Professional Experience:** 
 
 - Worked with almost every popular gaming platform including: PC (Windows, Mac and Linux), PS4/PS5, XB1 and XBS/XBX, Switch, Steam Deck, mobiles (iOS and Android), Steam/Epic/Xbox
-- Conducted various manual tests such as regression, smoke testing, stress tests, performance, destro, client's requests etc.
+- Conducted various manual tests such as regression, smoke testing, stress tests, performance, destro, client's requests, localization etc.
 - Gained experience on many different projects: big, medium and small ones (AAA, AA and A)
-- Helped with shipping games like Alan Wake II (testing, managing a team of testers as POC and helping them if needed, creating and updating project documentation, maintaining project's 
-  bug database in Jira, overseeing testplans and team tasks, pre-vetting bugs) and Fall Guys (managing a team of testers as POC and helping them if needed, installing builds and updating 
+- Helped with shipping games like **Alan Wake II** (testing, managing a team of testers as POC and helping them if needed, creating and updating project documentation, maintaining project's 
+  bug database in Jira, overseeing testplans and team tasks, pre-vetting bugs) and **Fall Guys** (managing a team of testers as POC and helping them if needed, installing builds and updating 
   software on Switch, maintaining bug database in Azure DevOps and Jira, overseeing testcases in Testrail, creating project documentation)
 
 ⚙ **Tech Stack:**
 
-- Jira (mostly), Mantis (over 2 years), Azure DevOps (~ 8 months)
+- Jira (mostly), Mantis (2,5 years), Azure DevOps (~ 8 months)
 - Confluence (using project technical documentation mostly provided by clients) 
-- Testrail (managing testcases)
+- Testrail and Jira XRay (managing testcases)
 - TestFlight (for iOS testing, installing builds)
-- Nintendo Switch SDK (updating software, installing builds, testing)
+- Nintendo Switch SDK, Xbox GDK (updating software, installing builds, testing)
 
 🧠 **Skills:**
 
@@ -35,14 +35,14 @@
 
 🌱 **Self-development:**
 
-- Currently learning some Unreal Engine to better understand game design process from within and other tools like Postman, Swagger, JQuery, also a bit of SQL and Python
+- Currently learning some Godot and Unreal Engine 5 to better understand game design processes from within in those game engines and other tools like Postman, Swagger, JQuery, also a bit of SQL and Python
 - Will add some projects in time here
 
 🔍 **What am I looking for?**
 
 - Stable company to work for which would let me grow in a Quality Assurance and software testing areas
 - Professional connections
-- Opportunities to learn automation 
+- Opportunities to learn automation and game design or testing design processess 
  
 📞 **How to reach me:** 
 
